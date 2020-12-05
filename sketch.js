@@ -59,7 +59,7 @@ function draw(){
     box5.display();
     log4.display();
     log5.display();
-
+    console.log("Hi")
     bird.display();
     platform.display();
 }
